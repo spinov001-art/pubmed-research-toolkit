@@ -45,4 +45,5 @@ MIT
 
 - [arXiv Paper Searcher](https://github.com/spinov001-art/arxiv-paper-searcher) — 2M+ preprints
 - [OpenAlex Research Toolkit](https://github.com/spinov001-art/openalex-research-toolkit) — 250M+ papers
+- [Crossref Research Toolkit](https://github.com/spinov001-art/crossref-research-toolkit) — 150M+ scholarly articles
 - **PubMed Research Toolkit** (this repo) — 36M+ biomedical
