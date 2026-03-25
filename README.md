@@ -40,3 +40,9 @@ MIT
 
 ---
 *Built by [AI Entrepreneur](https://spinov001-art.github.io)*
+
+## Research API Suite
+
+- [arXiv Paper Searcher](https://github.com/spinov001-art/arxiv-paper-searcher) — 2M+ preprints
+- [OpenAlex Research Toolkit](https://github.com/spinov001-art/openalex-research-toolkit) — 250M+ papers
+- **PubMed Research Toolkit** (this repo) — 36M+ biomedical
